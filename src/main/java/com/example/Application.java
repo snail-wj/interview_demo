@@ -1,12 +1,12 @@
-package com.example.interview_demo;
+package com.example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class InterviewDemoApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(InterviewDemoApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 }
